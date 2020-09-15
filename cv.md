@@ -5,4 +5,8 @@ E-mail : vla-tur@yandex.ru*
 
 ### About me
 
-I like to creat things, which kinda lead me to programming. Diceded to try it and slowly, but surely getting into it. 
+I like to create things, which kind led me to programming. Decided to try it and slowly, but surely getting into it.
+
+I'm styding on my own via books, youtube and other sources.
+
+Master's degree in *Infocommunication technologies and communication systems*
