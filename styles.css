@@ -249,3 +249,10 @@ h3 {
   text-align: center;
   padding: 15px;
 }
+
+.code_example {
+  overflow: hidden;
+  background-color: #3b3b3b;
+  color: #ffffff;
+  padding: 0 20px;
+}
