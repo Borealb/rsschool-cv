@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://Borealb.github.io/rsschool-cv/cv
+https://Borealb.github.io/rsschool-cv/
