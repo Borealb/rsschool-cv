@@ -228,3 +228,24 @@ h3 {
   height: 115px;
   background: #0bb5f4;
 }
+
+.footer {
+  max-width: 1200px;
+  display: flex;
+  margin: 0 auto;
+  min-height: 100%;
+  color: white;
+  background-color: #1e232c;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Github_link {
+  text-decoration: none;
+  color: #b1eaff;
+}
+
+.footer_item {
+  text-align: center;
+  padding: 15px;
+}
