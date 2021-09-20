@@ -90,8 +90,8 @@ h3 {
   padding: 0 25px;
 }
 
-.resume .title {
-  margin-bottom: 20px;
+.title {
+  text-align: center;
 }
 
 .resume .resume_left .bold {
