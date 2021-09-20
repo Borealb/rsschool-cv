@@ -181,15 +181,13 @@
           </div>
           <pre class="code_example">
 						<code>
-function findOdd(A) {
-let counter = 0;
-for (let i = 0; i &lt A.length; i++){
-for (let j = 0; j &lt A.length; j++){
-if (A[i] === A[j])
-counter++;
+function inter(s1, s2){
+let inter = new Set()
+for (let elem of s2) {
+if (s1.has(elem)) {
+inter.add(elem)
 }
-if (counter % 2 != 0) {
-}
+} return inter;
 }
 						</code>
 					</pre>
